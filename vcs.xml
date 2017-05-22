@@ -14,8 +14,16 @@
           <option name="url" value="https://github.com/djdsfj/RecepcaoPedidoCliente" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/djdsfj/Dasa-Handson" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/djdsfj/Dasa-Handson.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\david\Desktop\RecepcaoPedidoCliente" />
+    <option name="cloneParentDir" value="C:\Users\david\Downloads\dasa-handson (2)" />
   </component>
 </application>
